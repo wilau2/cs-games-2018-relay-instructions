@@ -1,8 +1,8 @@
 # LORE
 
-When the penguin arrived on earth, they wanted to be closer to the Nerds/Geeks they met at University Laval CS GAMES. They decided to reimplement they're communication system based on Starfleet ranks.
+When the penguin arrived on earth, they wanted to be closer to the Nerds/Geeks they met at University Laval CS GAMES. They decided to reimplement their communication system based on Starfleet ranks.
 
-**Laguages/Frameworks**: docker, docker-compose, zuul, eureka, java-8, spring-boot, spring-cloud, Git, Submodules
+**Languages/Frameworks**: docker, docker-compose, zuul, eureka, java-8, spring-boot, spring-cloud, Git, Submodules
 
 ## References
  - [Starfleet ranks](http://memory-alpha.wikia.com/wiki/Starfleet_ranks)
