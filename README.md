@@ -17,24 +17,24 @@
 - TEAMENAME_INFRA_HOUR2
 
 ## plt-3928
-hour 1 infra
-hour 2 services
-hour 3 web
+- hour 1 infra
+- hour 2 services
+- hour 3 web
 
 ## plt-3920
-hour 1 services
-hour 2 web
-hour 3 infra
+- hour 1 services
+- hour 2 web
+- hour 3 infra
 
 ## plt-3966
-hour 1 web
-hour 2 infra
-hour 3 services
+- hour 1 web
+- hour 2 infra
+- hour 3 services
 
 ## Project skeleton
-web
-https://github.com/wilau2/cs-games-2018-relay-web
-infra
-https://github.com/wilau2/cs-games-2018-relay-cloud
-services
-https://github.com/wilau2/cs-games-2018-relay-cloud
+- web
+- https://github.com/wilau2/cs-games-2018-relay-web
+- infra
+- https://github.com/wilau2/cs-games-2018-relay-cloud
+- services
+- https://github.com/wilau2/cs-games-2018-relay-cloud
